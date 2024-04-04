@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 0x04. Files manager
 
 ![Statements](https://img.shields.io/badge/statements-90.69%25-brightgreen.svg?style=flat)
@@ -76,3 +77,6 @@ DB_DATABASE='test_database' FOLDER_PATH='/tmp/test_folder' npm run test-all
 
 - [Duncan Ngugi](https://github.com/ngugimuchangi)
 - [Samule Ekati](https://github.com/Samuthe)
+=======
+# alx-test
+>>>>>>> bf311f38c3490036ef0b637dc049b4a41e8414a6
